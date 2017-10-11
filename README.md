@@ -2,7 +2,7 @@
 
 The Go gopher is the mascot of the [Go programming language](https://golang.org/). The mascot was originally designed by [Renee French](http://reneefrench.blogspot.ca/).
 
-This repository contains Sergi's version of the Go gopher going to Oktoberfest.
+This repository contains Sergi's version of the Go gopher going to Munich [Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest) and he's wearing a [lederhosen](https://en.wikipedia.org/wiki/Lederhosen) and a square pattern shirt with of course, a [Maß](https://en.wikipedia.org/wiki/Maß) of beer.
 
 ## Notes
 The design was done with [Affinity Designer](https://affinity.serif.com) and then exported to SVG and PNG.
