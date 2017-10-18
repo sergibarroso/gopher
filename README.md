@@ -8,11 +8,11 @@ This repository started one design focused, but after the second I decided to ch
 
 * Gopher going to Munich [Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest) and he's wearing a [lederhosen](https://en.wikipedia.org/wiki/Lederhosen) and a square pattern shirt with of course, a [Maß](https://en.wikipedia.org/wiki/Maß) of beer.
 
->> ![gopher-oktoberfest](https://github.com/hiroru/gopher-oktoberfest/raw/master/draws/gopher-oktoberfest.png)
+![gopher-oktoberfest](https://github.com/hiroru/gopher-oktoberfest/raw/master/draws/gopher-oktoberfest.png)
 
 * Gopher's Go-society inspired by [f-society](http://mrrobot.wikia.com/wiki/Fsociety) from [Mr Robot](https://en.wikipedia.org/wiki/Mr._Robot).
 
->> ![gopher-gosociety](https://github.com/hiroru/gopher-oktoberfest/raw/master/draws/gopher-gsociety.png)
+![gopher-gosociety](https://github.com/hiroru/gopher-oktoberfest/raw/master/draws/gopher-gosociety.png)
 
 ## Notes
 All designs were done with [Affinity Designer](https://affinity.serif.com) and then exported to SVG and PNG.
